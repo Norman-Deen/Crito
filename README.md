@@ -1,45 +1,57 @@
-# 🌐 Crito – Business Consulting Website
+# Crito - Consulting Company Website
 
-A responsive multi-section landing page for a fictional consulting agency.  
-Built using **HTML**, **CSS**, **Bootstrap 5**, and **FontAwesome**.
+Crito is a modern, responsive website template designed for a fictional consulting company. Built with HTML, CSS (Bootstrap), and FontAwesome, it showcases multiple business sections including services, testimonials, contact forms, and more.
 
-## 📸 Preview
+## 🚀 Live Demo
 
-![Screenshot of Crito website](img/Logo.svg) 
+🔗 [View the live site here](https://norman-deen.github.io/Crito/)
 
-## 🧰 Tech Stack
+## 📁 Project Structure
 
-- HTML5
-- CSS3 (with custom styles)
-- Bootstrap 5.3
-- FontAwesome
-
-## 📂 Structure
+```
 
 Crito/
-├── index.html
-├── Contact.html
-├── Css/
-│ └── Crito.css
-├── img/
-│ └── all images used in the site
+├── Home.Html
+├── Contact.Html
+├── CSS/
+│   └── Contact.css
+├── Img/
+│   └── \[All images used]
+├── js/
+│   └── \[Optional JavaScript files]
 
-markdown
-Copy
-Edit
+````
 
+## 📌 Features
 
+- Responsive layout using Bootstrap 5
+- FontAwesome icons
+- Fully designed pages:
+  - Home
+  - Contact
+- Interactive contact form (non-functional in static GitHub Pages)
+- Business showcase sections: testimonials, services, team, etc.
 
-## 🚀 How to Run
+## 🛠 Technologies Used
 
-Just open `index.html` in your browser.  
-No setup or build steps required.
+- HTML5
+- CSS3
+- Bootstrap 5
+- FontAwesome
 
-## ✍️ Author
+## 🧪 How to Run Locally
 
-**Nour**  
-[LinkedIn](https://www.linkedin.com/in/nour-tinawi) • [Portfolio](https://www.pure-art.co) • [GitHub](https://github.com/Norman-Deen)
+1. Clone this repository
+   ```bash
+   git clone https://github.com/yourusername/Crito.git
+````
 
----
+2. Navigate to the folder
+3. Open `Home.Html` in your browser
 
-> This project was part of my web development training at **EC Utbildning**.
+## 🎓 License & Usage
+
+This project was created as part of a school task at **EC Utbildning**.
+
+📄 **License**:
+This project is available for educational purposes.
