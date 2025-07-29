@@ -5,7 +5,7 @@ Built using **HTML**, **CSS**, **Bootstrap 5**, and **FontAwesome**.
 
 ## 📸 Preview
 
-![Screenshot of Crito website](img/showcase-image.svg) 
+![Screenshot of Crito website](img/Logo.svg) 
 
 ## 🧰 Tech Stack
 
