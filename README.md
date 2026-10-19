@@ -20,7 +20,7 @@ Crito/
 ├── js/
 │   └── \[Optional JavaScript files]
 
-````
+```
 
 ## 📌 Features
 
@@ -44,7 +44,7 @@ Crito/
 1. Clone this repository
    ```bash
    git clone https://github.com/yourusername/Crito.git
-````
+```
 
 2. Navigate to the folder
 3. Open `Home.Html` in your browser
